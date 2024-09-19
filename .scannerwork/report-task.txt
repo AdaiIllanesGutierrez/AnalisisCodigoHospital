@@ -1,0 +1,6 @@
+projectKey=calidadHospital
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=calidadHospital
+ceTaskId=97222059-f3a0-4e11-b9ae-77c1567091f4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=97222059-f3a0-4e11-b9ae-77c1567091f4
